@@ -5,12 +5,11 @@ public static void main(){
 	int x,y;
 	x=ob.nextInt();
 	y=ob.nextInt();
+	z=ob.nextInt();
 	if(x>y){
 		System.out.print("Result = "+x);
 	}
 	else{
-
-
-	System.out.print("Result = "+y);}
-}
+		System.out.print("Result = "+y);}
+	}
 }
